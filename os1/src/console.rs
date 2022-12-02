@@ -1,7 +1,6 @@
 /*！
 
 本模块实现了 print 和 println 宏。
-finish
 
 */
 
